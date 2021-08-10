@@ -1,11 +1,3 @@
-# load-txtfile
-
-my first custom WP plugin - [PlayersVoice](https://www.playersvoice.com.au/) assessment
-
-![Load Txtfile WP Plugin](screenshot.png)
-
-```
-
 === Plugin Name ===
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link: http://example.com/
@@ -120,5 +112,3 @@ Markdown uses email style notation for blockquotes and I've been told:
 > Asterisks for *emphasis*. Double it up  for **strong**.
 
 `<?php code(); // goes in backticks ?>`
-
-```
